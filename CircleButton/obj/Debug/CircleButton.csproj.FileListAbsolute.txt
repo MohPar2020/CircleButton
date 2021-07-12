@@ -1,0 +1,10 @@
+C:\Users\Mohsen\source\repos\CircleButton\CircleButton\bin\Debug\CircleButton.exe.config
+C:\Users\Mohsen\source\repos\CircleButton\CircleButton\bin\Debug\CircleButton.exe
+C:\Users\Mohsen\source\repos\CircleButton\CircleButton\bin\Debug\CircleButton.pdb
+C:\Users\Mohsen\source\repos\CircleButton\CircleButton\obj\Debug\CircleButton.Form1.resources
+C:\Users\Mohsen\source\repos\CircleButton\CircleButton\obj\Debug\CircleButton.Properties.Resources.resources
+C:\Users\Mohsen\source\repos\CircleButton\CircleButton\obj\Debug\CircleButton.csproj.GenerateResource.cache
+C:\Users\Mohsen\source\repos\CircleButton\CircleButton\obj\Debug\CircleButton.csproj.CoreCompileInputs.cache
+C:\Users\Mohsen\source\repos\CircleButton\CircleButton\obj\Debug\CircleButton.exe
+C:\Users\Mohsen\source\repos\CircleButton\CircleButton\obj\Debug\CircleButton.pdb
+C:\Users\Mohsen\source\repos\CircleButton\CircleButton\obj\Debug\CircleButton.csprojResolveAssemblyReference.cache
