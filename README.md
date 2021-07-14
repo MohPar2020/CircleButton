@@ -7,3 +7,4 @@ Link to arxiv version: https://arxiv.org/pdf/2002.08455.pdf
 Source code for the Circle-based Test
 Microsoft .NET framework version 4.6.1
 
+The file "Circle_based_test.jpg" shows the screenshot of the application. You need to enter a "User ID", then select your testing modality and click the start button. You can then start the test by selecting the shown dart-shapped button.
